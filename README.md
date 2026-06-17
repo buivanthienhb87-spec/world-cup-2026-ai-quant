@@ -43,3 +43,27 @@ Contributions are welcome for data schemas, reproducible notebooks, methodology 
 ## License
 
 This project is released under the MIT License.
+
+## Expanded Project Structure
+
+This repository has been expanded into a fuller open-source project with reusable source modules, tests, sample data, documentation, examples, and maintenance files. The goal is to make the project understandable to visitors, useful to contributors, and suitable for long-term indexing by GitHub and general search engines.
+
+| Area | Added content |
+|---|---|
+| Source code | `src/world_cup_2026_ai_quant/` contains lightweight reusable modules. |
+| Tests | `tests/` contains baseline tests for the core helpers. |
+| Data | `data/` contains small structured sample datasets. |
+| Documentation | `docs/` explains architecture, methodology, review rules, or maintenance practices. |
+| Examples | `examples/` shows how to use the project modules or data. |
+| Automation | `.github/workflows/validate.yml` runs basic validation on pushes and pull requests. |
+
+## Development Workflow
+
+Clone the repository, install it in editable mode, and run the tests. The project intentionally keeps dependencies minimal so contributors can review and extend it quickly.
+
+```bash
+git clone https://github.com/buivanthienhb87-spec/world-cup-2026-ai-quant.git
+cd world-cup-2026-ai-quant
+python -m pip install -e .
+python -m pytest -q
+```
