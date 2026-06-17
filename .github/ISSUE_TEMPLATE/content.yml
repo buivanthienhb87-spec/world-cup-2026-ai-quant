@@ -1,0 +1,17 @@
+name: Content or Documentation Issue
+description: Report inaccurate content, missing documentation, or project structure improvements.
+title: "[Docs]: "
+labels: [documentation]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Describe the issue or proposed improvement.
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Add official or verifiable references when available.
