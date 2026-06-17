@@ -1,0 +1,50 @@
+[
+  {
+    "team": "Example United",
+    "confederation": "UEFA",
+    "fifa_rank": 1,
+    "elo_rating": 1950
+  },
+  {
+    "team": "Example FC",
+    "confederation": "CONMEBOL",
+    "fifa_rank": 2,
+    "elo_rating": 1920
+  },
+  {
+    "team": "Example Athletic",
+    "confederation": "UEFA",
+    "fifa_rank": 3,
+    "elo_rating": 1900
+  },
+  {
+    "team": "Example City",
+    "confederation": "UEFA",
+    "fifa_rank": 4,
+    "elo_rating": 1880
+  },
+  {
+    "team": "Example Nacional",
+    "confederation": "CONMEBOL",
+    "fifa_rank": 5,
+    "elo_rating": 1860
+  },
+  {
+    "team": "Example FC Asia",
+    "confederation": "AFC",
+    "fifa_rank": 15,
+    "elo_rating": 1650
+  },
+  {
+    "team": "Example Lions",
+    "confederation": "CAF",
+    "fifa_rank": 20,
+    "elo_rating": 1580
+  },
+  {
+    "team": "Example Eagles",
+    "confederation": "CONCACAF",
+    "fifa_rank": 12,
+    "elo_rating": 1700
+  }
+]
