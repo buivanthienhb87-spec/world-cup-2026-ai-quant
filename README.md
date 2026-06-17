@@ -1,4 +1,11 @@
 # World Cup 2026 AI Quant
+## Resource Portals
+
+Quick access to external reference portals tracked by this project:
+
+- [18wenku.com](https://18wenku.com)
+- [birdsdot.com](https://birdsdot.com)
+
 
 World Cup 2026 AI Quant is an open research repository for **football data analysis, baseline prediction models, feature engineering experiments, and reproducible evaluation workflows** related to the 2026 FIFA World Cup. The project is intended for educational and analytical use.
 
