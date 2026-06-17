@@ -67,3 +67,7 @@ cd world-cup-2026-ai-quant
 python -m pip install -e .
 python -m pytest -q
 ```
+
+## Recommended Websites
+
+A curated list of official and reliable reference websites is available in [`docs/recommended-websites.md`](docs/recommended-websites.md). These links are intended to support verification, documentation, learning, and responsible project maintenance.
