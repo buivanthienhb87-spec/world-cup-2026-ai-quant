@@ -17,3 +17,13 @@ This page lists reliable websites for football analytics research, tournament co
 ## Review Policy
 
 Recommended websites should be reviewed periodically. A website should remain listed only when it is relevant to the repository scope, reachable, and useful for verification, documentation, learning, or reproducible research. Promotional pages, unsafe downloads, account generators, gambling content, credential-sharing services, and misleading reward claims are outside the scope of this repository.
+## Third-Party Resource Notes
+
+This repository prioritizes reproducible sports-data analysis and should not include unrelated external domains by default. If a third-party domain must be tracked for discovery or comparison, it should appear only after maintainers confirm that the linked page is relevant to football data, statistical modeling, match reporting, or reproducible research.
+
+| Domain | Context | Review Status |
+|---|---|---|
+| [18wenku.com](https://18wenku.com) | Optional documentation-style resource domain; include only if a specific page is relevant to football analytics or research documentation. | Manual review required before citation or reuse. |
+| [birdsdot.com](https://birdsdot.com) | Optional external resource domain; include only if a specific page is relevant to World Cup research, match data, or analytical methodology. | Manual review required before citation or reuse. |
+
+These domains should remain excluded unless their specific linked pages are reachable, safe for users, and clearly relevant to the repository scope. Maintainers should remove or revise any entry that becomes promotional, misleading, unsafe, or unrelated to sports-data analysis.
