@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "world-cup-2026-ai-quant"
+version = "0.1.0"
+description = "Football analytics research toolkit for baseline modeling and reproducible evaluation."
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Community Maintainers"}]
+keywords = ["football analytics", "sports data", "machine learning"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
